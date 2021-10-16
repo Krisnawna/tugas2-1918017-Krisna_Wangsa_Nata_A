@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="false"
+    android:background="#39E3D5"
+    android:backgroundTint="#3FC7F1"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:backgroundTint="#BC1616"
+        android:fontFamily="sans-serif-black"
+        android:text="Fragment Pertama"
+        android:textColor="#020202"
+        android:textColorHighlight="#883333"
+        android:textSize="34sp" />
+</RelativeLayout>
